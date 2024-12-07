@@ -1,0 +1,6 @@
+Hadoop Ecosystem Example
+
+Hadoop Ecosystem includes HDFS, MapReduce, YARN
+HDFS manages data storing
+YARN manages resources
+MapReduce processes data
